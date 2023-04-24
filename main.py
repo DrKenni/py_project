@@ -1,3 +1,4 @@
-from fancs import sum_
+from fancs import sum_, minus
 
-sum_(3,3)
+count = sum_(3,3)
+result = minus(count, 4)
